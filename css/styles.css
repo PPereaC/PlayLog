@@ -1,0 +1,29 @@
+
+/* FUENTES APLICACIÓN */
+@font-face {
+    font-family: 'Inter';
+    src: url('../fonts/Inter-VariableFont_opsz\,wght.ttf');
+}
+
+@font-face {
+    font-family: 'Orbitron';
+    src: url('../fonts/Orbitron-VariableFont_wght.ttf');
+}
+
+/* VARIABLES CSS */
+:root {
+    --color-primario: #00f0ff;
+    --color-secundario: #7000ff;
+    --fondo-oscuro: #050505;
+    --fondo-claro: #f0f2f5;
+    --tarjeta-oscura: #121217;
+    --tarjeta-clara: #ffffff;
+    --texto-oscuro: #e0e0e0;
+    --texto-claro: #1a1a1a;
+
+    /* Tipografía (fuentes) */
+    --titulos: 'Orbitron', sans-serif;
+    --cuerpo: 'Inter', sans-serif;
+}
+
+
